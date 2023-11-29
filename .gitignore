@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# C extensions
+*.so
+
+# Local development settings
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm files
+.idea/
